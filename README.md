@@ -1,6 +1,6 @@
-# [Seu nome]
+# Rafael Bezerra
 
-> Builder de produtos, software e experiências digitais.
+> Backend Developer at Grupo Boticário, building service integrations and digital products that connect complex systems to simple experiences.
 
 <!--
   Perfil GitHub em estilo Studio.
