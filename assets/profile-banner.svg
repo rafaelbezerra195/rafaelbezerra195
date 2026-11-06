@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael Bezerra</title>
+  <desc id="desc">Backend developer building digital experiences</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#202a3e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#f97316"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <path d="M0 215C180 170 280 268 457 224S735 168 892 209s219 30 308-26" fill="none" stroke="#f97316" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M0 235C180 190 280 288 457 244S735 188 892 229s219 30 308-26" fill="none" stroke="#fbbf24" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1070" cy="72" r="115" fill="#f97316" opacity=".07"/>
+  <circle cx="1070" cy="72" r="69" fill="#fbbf24" opacity=".09"/>
+  <rect x="62" y="50" width="127" height="27" rx="13.5" fill="#f97316" fill-opacity=".16" stroke="#f97316" stroke-opacity=".5"/>
+  <text x="77" y="68" fill="#fdba74" font-family="Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="2">PORTFOLIO</text>
+  <text x="58" y="145" fill="#ffffff" font-family="Arial,sans-serif" font-size="57" font-weight="bold">Rafael Bezerra</text>
+  <rect x="62" y="166" width="51" height="4" rx="2" fill="url(#accent)"/>
+  <text x="62" y="207" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="21">Backend development  /  service integrations  /  digital products</text>
+  <path d="M1020 128l38 37-38 37M1110 128l-38 37 38 37" fill="none" stroke="#fb923c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+</svg>

@@ -1,74 +1,49 @@
-# Rafael Bezerra
-
-> Backend Developer at Grupo Boticário, building service integrations and digital products that connect complex systems to simple experiences.
-
-<!--
-  Perfil GitHub em estilo Studio.
-  Troque os campos entre colchetes e remova este comentário quando terminar.
-  A página deve continuar genérica sobre projetos privados.
--->
-
 <div align="center">
+  <img src="assets/profile-banner.svg" alt="Rafael Bezerra — backend developer, building digital experiences" width="100%" />
 
-`● trabalhando agora` &nbsp; `produtos digitais` &nbsp; `automação` &nbsp; `aprendizado contínuo`
+  <h1>Hi, I'm Rafael 👋</h1>
+  <p><strong>Backend Developer at Grupo Boticário</strong></p>
+  <p>I build service integrations and digital products that make complex systems feel simple.</p>
 
-[GitHub](https://github.com/seu-usuario) · [LinkedIn](https://www.linkedin.com/in/seu-usuario) · [Portfólio](https://seu-site.example.com)
-
+  <p>
+    <a href="https://br.linkedin.com/in/rafaelbezerra195">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.culturaemjeri.com.br/">Current project</a>
+  </p>
 </div>
 
-## / direção atual
+---
 
-Construo produtos, automações e experimentos de software com foco em [sua área de interesse]. Atualmente estou envolvido em projetos públicos e privados; aqui compartilho aprendizados, projetos selecionados e coisas que estou explorando, sem expor detalhes de clientes, empresas ou produtos fechados.
+## / selected work
 
-## / projetos em destaque
+### Cultura em Jeri &nbsp; ↗
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/seu-usuario/seu-projeto">projeto-publico-01 ↗</a></h3>
-      <p>[Uma frase sobre o valor, impacto ou aprendizado.]</p>
-      <code>[Tecnologia]</code> <code>público</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/seu-usuario/outro-projeto">projeto-publico-02 ↗</a></h3>
-      <p>[Outra iniciativa que represente seu repertório.]</p>
-      <code>[Tecnologia]</code> <code>público</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>produto em andamento</h3>
-      <p>[Área ou resultado, sem nome interno, cliente, link ou métrica sensível.]</p>
-      <code>privado</code> <code>em evolução</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://seu-site.example.com">mais sobre mim ↗</a></h3>
-      <p>[Artigos, portfólio ou uma coleção de experimentos.]</p>
-      <code>link</code> <code>externo</code>
-    </td>
-  </tr>
-</table>
+An interactive cultural map for discovering events and local creators in Jericoacoara. I work on the services and integrations behind the public experience.
 
-## / stack e temas
+<a href="https://www.culturaemjeri.com.br/">
+  <img src="https://www.culturaemjeri.com.br/favicon.svg" alt="Cultura em Jeri logo" width="56" />
+</a>
 
-`[Tecnologia 1]` · `[Tecnologia 2]` · `[Tecnologia 3]` · `[Ferramenta]` · `[Nuvem]`
+**Explore the live product:** [culturaemjeri.com.br](https://www.culturaemjeri.com.br/)<br>
+**Experience:** interactive map · daily events · local cultural profiles
 
-**Agora:** [tema atual] · [problema que estou explorando] · [tipo de produto]
+The public product is available to explore. The source repository and internal details remain private.
 
-## / atividade
+<!-- When a recording of the CURRENT public interface is available, add a short
+     looping GIF here, linked to the live site. Review every frame for personal
+     data before publishing. Do not use the old social-preview image: it shows
+     a previous version of the interface. -->
 
-- Repositórios fixados: selecione de três a cinco itens públicos que representem seu trabalho.
-- Grade de contribuições: mostra a cadência de trabalho; contribuições privadas podem aparecer de forma anonimizada quando essa opção estiver habilitada.
-- Privacidade: nomes internos, clientes, links privados, números e arquitetura proprietária ficam fora deste perfil.
+---
 
-## / contato
+## / about my work
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [E-mail profissional](mailto:seu-email@example.com)
-- [Seu site ou portfólio](https://seu-site.example.com)
+I focus on backend development, service integrations, and the product experiences they enable. I share public outcomes here while keeping private implementation details private.
 
-<div align="center">
+## / activity
 
-<sub>perfil atualizado conforme os projetos públicos e interesses mudam.</sub>
+The contribution graph below is my GitHub activity. GitHub can also count private contributions without naming their repositories when that setting is enabled.
 
-</div>
+## / let's connect
+
+[LinkedIn](https://br.linkedin.com/in/rafaelbezerra195) · [GitHub](https://github.com/rafaelbezerra195)

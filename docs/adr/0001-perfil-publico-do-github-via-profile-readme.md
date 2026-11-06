@@ -53,3 +53,9 @@ O arquivo [`README.md`](../../README.md) deste projeto é o modelo Studio recome
 ## Critério de atualização
 
 Revisar o README quando houver mudança de foco, novo projeto público relevante ou alteração nos links de contato. Antes de publicar, fazer uma leitura como visitante deslogado e confirmar que nenhuma informação privada aparece por acidente.
+
+## Revisão: vitrine de produto
+
+O perfil agora começa com uma bio curta em inglês de Rafael Bezerra, Backend Developer no Grupo Boticário, seguida por uma vitrine do Cultura em Jeri. O projeto público é descrito pelo que o visitante consegue ver: mapa cultural, eventos e perfis locais. O README aponta para a plataforma, sem vincular o repositório privado nem expor implementação interna.
+
+O cabeçalho usa um SVG local para dar identidade visual ao perfil. A experiência do projeto deve ser mostrada por uma captura ou GIF da interface pública atual assim que houver mídia fiel. A imagem de prévia social atual do site foi descartada porque mostra uma versão antiga. Antes de publicar uma gravação, conferir todos os quadros para evitar nomes, dados pessoais e elementos de sessão privada.
